@@ -9,6 +9,8 @@ Use:
 
 Click play, and try to guess the words, some definitions will be provided as a hint.
 
+![hangman](hangman_001.gif)
+
 ### Description
 
 To generate the random word, we use some "Seed words" these seed words are used in the datamuse wrapper to find similar meaning words.
