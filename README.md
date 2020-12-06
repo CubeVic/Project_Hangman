@@ -1,10 +1,9 @@
-# Project Hangman V0.0.1
+# Project Hangman V0.1.0
 
 This project is a simple Hangman game were the user guess a word in a few amount of attempts.
 
 Use:
 * Datamuse API wrapper for python.  
-* Flask.  
 
 ## Getting Started
 
@@ -16,7 +15,7 @@ To generate the random word, we use some "Seed words" these seed words are used 
 
 ## Deployment
 
-The project is deployed on Heroku: []
+In the future will be deploy in Heroku.
 
 
 ## Versioning
