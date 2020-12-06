@@ -1,5 +1,7 @@
 # Project Hangman V0.1.0
 
+![Hangman Hero](Hangman_Hero.png)
+
 This project is a simple Hangman game were the user guess a word in a few amount of attempts.
 
 Use:
